@@ -1,6 +1,6 @@
-# ujian-online-ci
+# ujian-uny
 
-Aplikasi Ujian Online Menggunakan CodeIgniter
+Aplikasi Test Kompentensi Calon Guru
 
 <h1>Catatan</h1>
 <p>Disarankan upgrade PHP ke versi terbaru (7.3 atau lebih tinggi)</p>
@@ -26,7 +26,7 @@ Aplikasi Ujian Online Menggunakan CodeIgniter
 <li>Bootstrap datetime-picker</li>
 <li>Fontawesome</li>
 <li>Ion-icons</li>
-<li>Froala Editor</li>
+<li>CK Editor</li>
 <li>MommentJs</li>
 <li>ICheck</li>
 <li>frankyradio</li>
